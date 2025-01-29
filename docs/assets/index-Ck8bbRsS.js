@@ -4,7 +4,7 @@
         <img class="size-12 shrink-0" src="${n}" alt="ChitChat Logo" />  
         <div>    
             <div class="text-xl font-medium text-black dark:text-white">Trying out this tailwind thing</div>    
-            <p class="text-gray-500 dark:text-gray-400">What do you think?</p>  
+            <p class="text-gray-500 dark:text-gray-400">What do you think? Do you like it?</p>  
         </div>
     </div>
   </div>
